@@ -8,7 +8,7 @@ Um projeto experimental de emulador multi-sistema para iOS, escrito em C++ com i
 
 ## 🚀 Sobre o projeto
 
-O **UniversalEmu** é uma base para construção de emuladores, inspirado em projetos como RetroArch.
+O ** retromatriz é uma base para construção de emuladores, inspirado em projetos como RetroArch.
 
 Ele fornece:
 
