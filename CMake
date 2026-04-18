@@ -1,0 +1,12 @@
+cmake_minimum_required(VERSION 3.10)
+project(UniversalEmu)
+
+set(CMAKE_CXX_STANDARD 17)
+
+add_library(core
+    core/emulator.cpp
+    core/cpu_dummy.cpp
+)
+
+add_executable(emu main.cpp)
+target_link_libraries(emu core)
